@@ -40,8 +40,6 @@ An interactive dashboard has been created using Tableau to visualize the data an
 ## Conclusion
 The analysis provides valuable insights into British Airways’ customer reviews, highlighting key strengths and areas for improvement. With actionable data at hand, BA can enhance its services, particularly in in-flight entertainment, and potentially improve customer satisfaction moving forward.
 
-Thank you for exploring this project! Feel free to check out the dashboard and dive deeper into the insights.
-
 ---
 
 ### Project Links
